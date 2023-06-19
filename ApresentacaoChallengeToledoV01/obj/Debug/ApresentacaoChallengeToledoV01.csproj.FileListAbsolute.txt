@@ -1,0 +1,11 @@
+C:\Users\corag\source\repos\ApresentacaoChallengeToledoV01\bin\Debug\ApresentacaoChallengeToledoV01.exe.config
+C:\Users\corag\source\repos\ApresentacaoChallengeToledoV01\bin\Debug\ApresentacaoChallengeToledoV01.exe
+C:\Users\corag\source\repos\ApresentacaoChallengeToledoV01\bin\Debug\ApresentacaoChallengeToledoV01.pdb
+C:\Users\corag\source\repos\ApresentacaoChallengeToledoV01\obj\Debug\ApresentacaoChallengeToledoV01.csproj.AssemblyReference.cache
+C:\Users\corag\source\repos\ApresentacaoChallengeToledoV01\obj\Debug\ApresentacaoChallengeToledoV01.csproj.SuggestedBindingRedirects.cache
+C:\Users\corag\source\repos\ApresentacaoChallengeToledoV01\obj\Debug\ApresentacaoChallengeToledoV01.Form1.resources
+C:\Users\corag\source\repos\ApresentacaoChallengeToledoV01\obj\Debug\ApresentacaoChallengeToledoV01.Properties.Resources.resources
+C:\Users\corag\source\repos\ApresentacaoChallengeToledoV01\obj\Debug\ApresentacaoChallengeToledoV01.csproj.GenerateResource.cache
+C:\Users\corag\source\repos\ApresentacaoChallengeToledoV01\obj\Debug\ApresentacaoChallengeToledoV01.csproj.CoreCompileInputs.cache
+C:\Users\corag\source\repos\ApresentacaoChallengeToledoV01\obj\Debug\ApresentacaoChallengeToledoV01.exe
+C:\Users\corag\source\repos\ApresentacaoChallengeToledoV01\obj\Debug\ApresentacaoChallengeToledoV01.pdb
